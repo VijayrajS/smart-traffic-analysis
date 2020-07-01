@@ -1,5 +1,4 @@
 # Smart Traffic Analysis
-![Docs Status](https://readthedocs.org/projects/pip/badge/?version=latest&style=shields)
 
 [Project Documentation](https://sumaid.github.io/smart_traffic_analysis/)
 
