@@ -1,6 +1,5 @@
 # Smart Traffic Analysis
-
-![Build Status](https://sumaid.semaphoreci.com/badges/smart_traffic_analysis/branches/master.svg?style=shields) ![Docs Status](https://readthedocs.org/projects/pip/badge/?version=latest&style=shields)
+![Docs Status](https://readthedocs.org/projects/pip/badge/?version=latest&style=shields)
 
 [Project Documentation](https://sumaid.github.io/smart_traffic_analysis/)
 
